@@ -117,6 +117,7 @@ input {
   background: transparent;
   padding: 10px;
   font-size: 14px;
+  outline: none;
 }
 
 button {
@@ -224,8 +225,14 @@ ul li span:hover {
   }
 
   button {
-    padding: 12px 20px;
-    font-size: 14px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    background: #ff5945;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 40px;
   }
 
   ul li {
@@ -309,6 +316,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
