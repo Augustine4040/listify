@@ -299,7 +299,7 @@ ul li span:hover {
   button {
   border: none;
   outline: none;
-  padding: 10px 15px;
+  padding: 10px 40px;
   background: #ff5945;
   color: #fff;
   font-size: 10px;
@@ -341,6 +341,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
