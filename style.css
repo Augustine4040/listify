@@ -84,7 +84,7 @@
 
 .stats-number{
   position: absolute;
-  left: 600px;
+  left: 400px;
   top: 35px;
 }
 
@@ -321,9 +321,6 @@ ul li span:hover {
     height: 50px;
     font-size: 12px;
   }
-
-
-
 .foot{
   font-size: 10px;
   color: #fff;
@@ -332,6 +329,15 @@ ul li span:hover {
   margin-top: 40px;
 }
 }
+
+.foot{
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 40px;
+}
+
 
 
 
