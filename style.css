@@ -272,6 +272,21 @@ ul li span:hover {
   }
 
   .row {
+    flex-direction: column; /* Stack input and button vertically */
+    align-items: stretch; /* Ensure they take full width */
+    gap: 10px; /* Add spacing between input and button */
+  }
+
+  input {
+    width: 100%; /* Ensure input takes full width */
+  }
+
+  button {
+    width: 100%; /* Ensure button takes full width */
+  }
+}
+
+/*   .row {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -279,7 +294,7 @@ ul li span:hover {
   border-radius: 30px;
   padding-left: 20px;
   margin-bottom: 25px;
-}
+} */
 
   .stats-number{
   position: absolute;
@@ -287,16 +302,16 @@ ul li span:hover {
   top: 40px;
 }
 
-  input {
+/*   input {
   
   border: none;
   background: transparent;
   padding: 10px;
   font-size: 14px;
   outline: none;
-}
+} */
 
-  button {
+/*   button {
   border: none;
   outline: none;
   padding: 10px 20px;
@@ -305,7 +320,7 @@ ul li span:hover {
   font-size: 10px;
   cursor: pointer;
   border-radius: 40px;
-}
+} */
 
   ul li {
     font-size: 14px;
@@ -341,6 +356,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
