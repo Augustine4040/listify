@@ -290,7 +290,6 @@ ul li span:hover {
     padding: 10px 20px; /* Adjust padding for smaller screens */
     font-size: 14px; /* Adjust font size for better fit */
   }
-}
 
   .stats-number{
   position: absolute;
@@ -322,7 +321,7 @@ ul li span:hover {
     height: 50px;
     font-size: 12px;
   }
-}
+
 
 
 .foot{
@@ -331,8 +330,9 @@ ul li span:hover {
   text-align: center;
   font-weight: 400;
   margin-top: 40px;
-
 }
+}
+
 
 
 
