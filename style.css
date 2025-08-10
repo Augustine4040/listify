@@ -282,7 +282,7 @@ ul li span:hover {
   }
 
   button {
-    width: 100%; /* Ensure button takes full width */
+    width: 80%; /* Ensure button takes full width */
   }
 }
 
@@ -356,6 +356,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
