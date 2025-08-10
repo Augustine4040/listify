@@ -266,7 +266,7 @@ ul li span:hover {
 
   .stats-number{
   position: absolute;
-  left: 300px;
+  left: 290px;
   top: 40px;
 }
 
@@ -307,4 +307,5 @@ ul li span:hover {
   text-align: center;
   font-weight: 400;
   margin-top: 40px;
+
 }
