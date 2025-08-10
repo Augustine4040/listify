@@ -274,7 +274,7 @@ ul li span:hover {
   .row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   background: #edeef0;
   border-radius: 30px;
   padding-left: 20px;
@@ -283,7 +283,7 @@ ul li span:hover {
 
   .stats-number{
   position: absolute;
-  left: 285px;
+  left: 270px;
   top: 40px;
 }
 
@@ -341,6 +341,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
