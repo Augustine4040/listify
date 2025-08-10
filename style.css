@@ -277,6 +277,15 @@ ul li span:hover {
   top: 40px;
 }
 
+  input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  padding: 10px;
+  font-size: 14px;
+  outline: none;
+}
+
   button {
     padding: 10px 15px;
     font-size: 12px;
@@ -316,6 +325,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
