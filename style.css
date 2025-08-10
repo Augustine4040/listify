@@ -287,9 +287,8 @@ ul li span:hover {
   }
 
   button {
-    padding: 10px 40px; /* Adjust padding for smaller screens */
+    padding: 10px 20px; /* Adjust padding for smaller screens */
     font-size: 14px; /* Adjust font size for better fit */
-    margin-right: 10px
   }
 }
 
@@ -334,6 +333,7 @@ ul li span:hover {
   margin-top: 40px;
 
 }
+
 
 
 
